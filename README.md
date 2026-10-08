@@ -1,8 +1,10 @@
 # Olá, eu sou o Deivisson 👋
 
-**Desenvolvedor Backend** na [Ágape Consultoria](https://github.com/agapeconsultoria) · Vitória, ES 🇧🇷
+**Tech Lead e Desenvolvedor Backend** na [Ágape Consultoria](https://github.com/agapeconsultoria) · Vitória, ES 🇧🇷
 
-Mais de 10 anos de mercado, formado em Sistemas de Informação. Hoje trabalho num **sistema de gestão pública (processo legislativo)**, com foco em ASP.NET Web Forms.
+Há mais de 10 anos transformo regras de negócio complexas em software que funciona. Sou formado em **Sistemas de Informação**, pós-graduado em **Engenharia de Software** e estou cursando pós-graduação em **Inteligência Artificial**.
+
+Lidero o desenvolvimento de um **sistema de gestão pública para o processo legislativo**, usado por câmaras e assembleias, em C# e .NET. No dia a dia misturo a experiência com sistemas legados e as possibilidades que a IA abre para tornar esse tipo de software mais inteligente.
 
 ## 🛠️ Tecnologias
 
@@ -13,7 +15,8 @@ Mais de 10 anos de mercado, formado em Sistemas de Informação. Hoje trabalho n
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 🚀 Projetos em destaque
 
